@@ -1,5 +1,5 @@
 # React + Vite
-# Cuestionario Interactivo - !QuizzApp
+# Cuestionario Interactivo - "QuizzApp"
 
 Este es un proyecto de cuestionario interactivo desarrollado con React y vite, donde los usuarios pueden responder preguntas y recibir retroalimentación sobre sus respuestas. La aplicación cuenta con un temporizador para cada pregunta y muestra la puntuación final al completar el cuestionario.
 
